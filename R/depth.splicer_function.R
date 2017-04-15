@@ -2,8 +2,6 @@
 #'
 #' This function migrates data from a drilling depth scale to a composite depth scale
 #'
-#' @param
-#'
 
 
 depth.splicer<-function(obj,depth,splice,splice.table,tiepoints){
