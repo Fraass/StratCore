@@ -1,0 +1,10 @@
+Package: StratCore
+Type: Package
+Title: StratCore (Title Case)
+Version: 0.1.0
+Author: A. J. Fraass
+Maintainer: A. J. Fraass <FraassA@si.edut>
+Description: This package deals primarily with bio- and lithostratigraphy in Scientific Ocean Drilling Data
+License: MIT License
+Encoding: UTF-8
+LazyData: true
